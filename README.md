@@ -2,7 +2,8 @@
 
 # Profile
 👩‍💻Name: 송하영<br>
-✉️Email: hiyoung9565@gmail.com
+✉️Email: hiyoung9565@gmail.com<br>
+📝<a href="https://shocking-bass-8a1.notion.site/151a12550fb980ca840ef58ce9cf945f">Portfolio</a>
 
 # Education
 🏫동국대학교 법학과 졸업<br>
